@@ -1,4 +1,4 @@
-### On The Shoulders of Giants
+## On The Shoulders of Giants
 The story of GoodLogik would have never been possible without the generosity and support of the open-source community. This is us giving back.
 
 ### Our Projects
