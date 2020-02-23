@@ -1,3 +1,2 @@
-# goodlogik.github.io
+# OpenSource at GoodLogik
 
-The homepage for all the open source projects
