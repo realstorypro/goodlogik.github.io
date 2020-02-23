@@ -1,2 +1,2 @@
-# OpenSource at GoodLogik
+# Our OpenSource Projects
 
