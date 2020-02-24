@@ -1,5 +1,7 @@
 # Standing On The Shoulders of Giants
-It would have been impossible to build GoodLogik without the generosity and support of the open-source community. This is us giving back.
+It would have been impossible to build GoodLogik without the generosity and support of the open-source community. 
+
+This is us giving back.
 
 ### Our Projects
 
